@@ -1,0 +1,14 @@
+.arrows {
+    display: inline-flex;
+    
+    .arrow {
+        margin: auto;
+        margin-left: 6px;
+        margin-right: 6px;
+        cursor: pointer;
+
+        &-hide {
+            opacity: 0;
+        }
+    }
+}
