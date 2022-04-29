@@ -1,8 +1,8 @@
 import React from 'react'
 
-import Arrows from './Arrows'
-import Filters from './Filters'
-import TotalProducts from './TotalProducts'
+import Arrows from '../Arrows/Arrows'
+import Filters from '../Filters/Filters'
+import TotalProducts from '../TotalProducts/TotalProducts'
 
 import './ActionBar.scss'
 

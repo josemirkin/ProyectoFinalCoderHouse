@@ -1,7 +1,7 @@
 import React from 'react'
 
-import Arrows from './Arrows'
-import TotalProducts from './TotalProducts'
+import Arrows from '../Arrows/Arrows'
+import TotalProducts from '../TotalProducts/TotalProducts'
 
 import './BottomBar.scss'
 

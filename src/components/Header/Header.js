@@ -1,8 +1,8 @@
 import React from 'react'
 
-import User from './User'
-import Points from './Points'
-import HeaderImage from './HeaderImage'
+import User from '../User/User'
+import Points from '../Points/Points'
+import HeaderImage from './HeaderImage/HeaderImage'
 
 import logo from '../../images/coderhouse-logo.png'
 

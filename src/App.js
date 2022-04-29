@@ -7,7 +7,7 @@ import 'react-toastify/dist/ReactToastify.css'
 import Header from './components/Header/Header'
 import ActionBar from './components/ActionBar/ActionBar'
 import CardsGroup from './components/CardsGroup/CardsGroup'
-import BottomBar from './components/ActionBar/BottomBar'
+import BottomBar from './components/BottomBar/BottomBar'
 
 
 import './App.scss'

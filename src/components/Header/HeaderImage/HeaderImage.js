@@ -1,6 +1,6 @@
 import React from 'react'
 
-import headerImg from '../../images/header.png'
+import headerImg from '../../../images/header.png'
 
 import './HeaderImage.scss'
 
